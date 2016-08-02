@@ -1,4 +1,4 @@
 # www.github.com
 new github
 
-![github](https://imgflip.com/i/18bx0e)
+![github](https://i.imgflip.com/18bx0e.jpg)
